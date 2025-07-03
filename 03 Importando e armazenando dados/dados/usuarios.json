@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "João",
+        "email": "joao@email.com",
+        "compras": [
+            120.5,
+            35.9,
+            99.99
+        ],
+        "endereco": {
+            "cidade": "São Paulo",
+            "estado": "SP"
+        }
+    },
+    {
+        "nome": "Maria",
+        "email": "maria@email.com",
+        "compras": [
+            80.0,
+            12.0
+        ],
+        "endereco": {
+            "cidade": "Salvador",
+            "estado": "BA"
+        }
+    }
+]
